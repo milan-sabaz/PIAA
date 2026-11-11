@@ -9,3 +9,4 @@ if (MINGW)
 endif()
 
 add_subdirectory(01-lzw-compression)
+add_subdirectory(02-kmp-levenshtein)
